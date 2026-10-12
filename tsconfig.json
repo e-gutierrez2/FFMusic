@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+    "module": "nodenext",
+    "target": "esnext",
+    "moduleResolution": "nodenext",
+    "rootDir": "./",
+    "outDir": "../dist",
+    "sourceMap": true,
+    "inlineSources": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "allowJs": false,
+    "removeComments":true
+    },
+    "files" : ["src/global.d.ts"],
+    "include": ["src/**/*.ts"]
+}
