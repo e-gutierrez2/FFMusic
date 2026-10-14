@@ -69,3 +69,4 @@ node --env-file=.env dist/bot.js
   ./node_modules/youtube-dl-exec/bin/yt-dlp -U
   ```
 - La pausa no es real: la librería de voz todavía no permite pausar, así que `!resume` vuelve a empezar la canción.
+> **Aviso:** este es un proyecto escolar con fines educativos. No apoya ni fomenta la piratería ni la descarga de contenido protegido por derechos de autor. Respeta siempre los términos de servicio de las plataformas que utilices.
